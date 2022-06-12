@@ -11,7 +11,7 @@
 - LoadFile    数据加载
 - Size        获取数据量
 # 过程
-- [picture](https://github.com/hustlyhang/SkipList/blob/master/src/skiplist.md)
+- ![picture](https://github.com/hustlyhang/SkipList/blob/master/src/skiplist.md)
 # 测试
 - 测试相关函数都在[test.h](https://github.com/hustlyhang/SkipList/blob/master/Test.h)里面, 可以根据实际情况调整参数测试  
   ![test](https://github.com/hustlyhang/SkipList/blob/master/src/test.png)
